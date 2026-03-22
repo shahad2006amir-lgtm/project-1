@@ -32,3 +32,4 @@ else:
 # عرض مجموع النقاط النهائي
 print(f"\n🏆 Your current total score is: {total_points} Points!")
 print("Keep up the great work! 💪")
+
